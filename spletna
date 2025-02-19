@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Stays in Houston</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Luxury Stay, Houston Style</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#experiences">Experiences</a></li>
+                    <li><a href="#listings">Listings</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="container">
+            <h2>Welcome to Your Urban Oasis</h2>
+            <p>Experience the heart of Houston with our luxury vacation rentals.</p>
+            <a href="#book" class="btn">Book Now</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>At Houston Travels, we provide luxury private resorts and vacation rentals in the vibrant city of Houston, Texas. Our mission is to offer an unforgettable stay, whether you're here for the world-famous rodeo, electrifying concerts, or international events.</p>
+        </div>
+    </section>
+
+    <section id="experiences">
+        <div class="container">
+            <h2>Experiences</h2>
+            <p>Discover the diverse experiences Houston has to offer, from cultural festivals to sports events.</p>
+        </div>
+    </section>
+
+    <section id="listings">
+        <div class="container">
+            <h2>Our Listings</h2>
+            <p>Explore our range of luxury accommodations tailored to your needs.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <p>We offer personalized services to enhance your stay, including concierge services, guided tours, and more.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out to us via email at info@houstontravels.com or call us at (800) 860-9876.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Houston Travels LLC. All rights reserved.</p>
+            <div class="social-media">
+                <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+                <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+                <a href="#"><img src="youtube-icon.png" alt="YouTube"></a>
+                <a href="#"><img src="tiktok-icon.png" alt="TikTok"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
